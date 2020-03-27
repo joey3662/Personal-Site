@@ -1,0 +1,7 @@
+TECHNICAL SKILLS
+• Programming Languages: Java, C, C++, Python, SQL, HTML, CSS, Javascript, Node.js, SQL
+• IDEs: Visual Studio, Eclipse, Netbeans, CodeWarrior IDE, PyCharm
+• Numerical Software: LabView, MATLAB
+• CAD software: SolidWorks, AutoCAD, AutoCAD Electrical, Autodesk Inventor
+• OrCAD software: PSpice
+• Electric power system simulation software: PowerWorld Simulator, PSS/E (version 33.5)
